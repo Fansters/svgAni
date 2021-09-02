@@ -1,0 +1,20 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+section{
+     height: 100vh;
+     background: burlywood;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     flex-direction: column;
+}
+h1{
+     font-size: 4rem;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+svg{
+     cursor: pointer;
+}
